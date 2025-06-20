@@ -1,0 +1,32 @@
+[
+    {
+        "ABC Corp": [
+            {
+                "Amount": "250.75",
+                "InvoiceNumber": "INV-1001",
+                "Date": "2025-06-01",
+                "Description": "Office Supplies"
+            }
+        ]
+    },
+    {
+        "XYZ Ltd": [
+            {
+                "Amount": "1020.50",
+                "InvoiceNumber": "INV-1002",
+                "Date": "2025-06-02",
+                "Description": "Software License"
+            }
+        ]
+    },
+    {
+        "Tech Solutions": [
+            {
+                "Amount": "780.00",
+                "InvoiceNumber": "INV-1003",
+                "Date": "2025-06-03",
+                "Description": "Cloud Services"
+            }
+        ]
+    }
+]
